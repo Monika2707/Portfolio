@@ -1,0 +1,237 @@
+body{
+    margin:0;
+    text-align:center;
+}
+
+hr{
+    border-top:5px dotted #d3d3d3;
+    width:3%;
+    margin-bottom: 8%;
+    
+}
+/* Top section */
+.top-container{
+    background-color:#e0ebe8; ;
+    padding-top: 10%;
+    text-align: center;
+    line-height: 1.5;
+}
+
+h1{
+    font-family:Sacramento;
+    font-weight:900;
+    color:#45b29a;;
+    font-size: 5rem;
+    margin:0 auto;  
+}
+h2{
+    color:#1e836c;
+    font-family:'Merriweather Sans', sans-serif;
+    text-align: center;
+    font-size: 2.8em;
+    font-weight: 300;
+}
+ #top p
+{
+    font-family:'Merriweather Sans', sans-serif;
+    font-weight:380;
+    color:#45b29a;
+    font-size: 1.3rem;
+    margin:0;
+    margin-bottom: 7%;
+    line-height:2;
+    letter-spacing:0.5px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    bottom:60%;
+    left:300px;
+}
+.top-cloud
+{
+    position: absolute;
+    right:300px;  
+}
+
+/* Hello Section */
+
+#hello
+{
+    padding-top:5%;
+    padding-bottom:4.5%;
+    text-align:center;
+    width:30%;
+    margin: auto;
+}
+#hello h3{
+
+    color:#45b29a;
+    font-family:'Merriweather Sans', sans-serif;
+    font-size:2em;
+    padding-top:0.5em;
+    margin-top:20px;
+    font-weight: 500;
+}
+
+#hello p
+{
+    font-family:'Merriweather', serif;
+    font-size:1.2rem;
+    font-weight: 300;
+    line-height:1.5;
+    letter-spacing:0.5px;
+    text-align:center;
+    color:#545454;
+}
+#hello img
+{
+    width:150px;
+    height:150px;
+}
+/* What I can do section */
+
+#What_can_do 
+{
+    padding-bottom:8%;
+    margin-left:20%;
+    margin-right: 20%;
+    
+}
+#What_can_do .leftimg{
+    float: left;
+    width:150px;
+    height:150px;
+    text-align: left;
+    margin-right:4em;
+}
+#What_can_do .rightimg{
+
+    float:right;
+    width:150px;
+    height:150px;
+    text-align: left;
+    margin-right:13%;
+}
+#What_can_do p{
+    font-family:'Merriweather', serif;
+    font-size:1.2rem;
+    font-weight: 300;
+    line-height:1.42;
+    letter-spacing:0.5px;
+    text-align:left;
+    color:#545454;
+    margin-top:0;
+    margin-bottom:0;
+    width:80%;
+}
+.design
+{
+    /* margin-bottom: 15%; */
+    margin:5em 0 8em;
+    margin-left:8.5%;  
+}
+.develop 
+{
+    margin-left:8.5%;
+}
+#What_can_do .develop p
+{
+    width:65%;
+    margin:0;
+}
+#What_can_do h3{
+
+    color:#45b29a;
+    font-family:'Merriweather Sans', sans-serif;
+    font-size:1.5em;
+    font-weight:500;
+    padding-bottom:1.5em;
+    margin:0;
+}
+/* Can I help section */
+#I_can_help
+{
+    padding-bottom:5%;
+    margin-left:auto;
+    text-align: center;
+}
+#I_can_help h3{
+
+    color:#45b29a;
+    font-family:'Merriweather Sans', sans-serif;
+    font-size:1.4em;
+    font-weight:500;
+    padding-bottom:1em;
+    margin:0;
+    margin-bottom:1em;
+    letter-spacing:0.5px;
+}
+#I_can_help p
+{
+    font-family:'Merriweather', serif;
+    font-size:1.2rem;
+    font-weight: 300;
+    line-height:1.42;
+    letter-spacing:0.5px;
+    text-align:center;
+    color:#545454;
+    margin:0 auto;
+    margin-bottom:3%;
+    width:42%;   
+}
+#I_can_help button
+{
+    padding:.75em 3.5em .75em 3.5em;
+    text-transform:uppercase;
+    /* background: #45b29a; */
+    background-image: linear-gradient(to bottom right,#45b29a, #1b7f69);
+    color:white;
+    margin:1.5em 0 0;
+    border:0;
+    font-weight:400;
+    font-size:1.1em;
+    font-family:'Merriweather Sans', sans-serif;
+}
+#I_can_help button:hover{
+    background:white;
+    color:c;
+    border:3px solid #1b7f69;
+    border-radius: 30px;
+}
+
+/* footer section */
+
+.bottom_container
+{ 
+    background:#c5ded7;
+     margin-top:5em;
+      padding:50px 0 2.7em; 
+     color: #45b29a;
+     
+}
+
+.bottom_container p{
+    margin-bottom:0;
+    padding-top:1em;
+padding-bottom:0em;
+padding-top:1em;
+}
+
+
+ .bottom_container a{
+    text-decoration:none;
+     margin:1em 2em; 
+     color: #45b29a;
+    font-size:1.1em;
+    font-family:'Merriweather Sans', sans-serif;
+     font-weight:300;
+} 
+
+a:hover{
+    color: white;
+}
+ 
+
+
+
